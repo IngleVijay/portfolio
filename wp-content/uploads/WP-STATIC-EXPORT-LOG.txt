@@ -1,0 +1,1094 @@
+2021-02-19 08:48:09
+PHP VERSION 7.3.27
+OS VERSION Windows NT LAPTOP-J0J63CMD 10.0 build 19041 (Windows 10) AMD64
+WP VERSION 5.6.1
+WP URL http://localhost/portfolio
+WP SITEURL http://localhost/portfolio
+WP HOME http://localhost/portfolio
+WP ADDRESS http://localhost/portfolio
+PLUGIN VERSION 6.6.7
+VIA WP-CLI? 
+STATIC EXPORT URL https://IngleVijay.github.io/portfolio.github.io/
+PERMALINK STRUCTURE /index.php/%year%/%monthnum%/%day%/%postname%/
+SERVER SOFTWARE Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.27
+Active plugins:
+elementor/elementor.php
+package/wp2static.php
+themegrill-demo-importer/themegrill-demo-importer.php
+Plugin options:
+additionalUrls: 
+allowOfflineUsage: 
+baseHREF: 
+baseUrl: 
+baseUrl-bitbucket: 
+baseUrl-bunnycdn: 
+baseUrl-folder: 
+baseUrl-ftp: 
+baseUrl-github: 
+baseUrl-gitlab: 
+baseUrl-netlify: 
+baseUrl-s3: 
+baseUrl-zip: 
+baseUrl-zip: 
+basicAuthPassword: *******************
+basicAuthUser: 
+bbBranch: 
+bbPath: 
+bbRepo: 
+bbToken: *******************
+bunnycdnStorageZoneAccessKey: *******************
+bunnycdnPullZoneAccessKey: *******************
+bunnycdnPullZoneID: 
+bunnycdnStorageZoneName: 
+bunnycdnRemotePath: 
+cfDistributionId: 
+completionEmail: 
+crawl_delay: 
+crawl_increment: 
+crawlPort: 
+debug_mode: 
+detection_level: 
+delayBetweenAPICalls: 
+deployBatchSize: 
+excludeURLs: 
+ftpPassword: *******************
+ftpRemotePath: 
+ftpServer: 
+ftpPort: 
+ftpTLS: 
+ftpUsername: 
+ghBranch: 
+ghCommitMessage: 
+ghPath: 
+ghRepo: 
+ghToken: *******************
+glBranch: 
+glPath: 
+glProject: 
+glToken: *******************
+netlifyHeaders: 
+netlifyPersonalAccessToken: *******************
+netlifyRedirects: 
+netlifySiteID: 
+removeConditionalHeadComments: 1
+removeHTMLComments: 1
+removeWPLinks: 1
+removeWPMeta: 1
+rewrite_rules: 
+rename_rules: 
+s3Bucket: 
+s3Key: 
+s3Region: 
+s3RemotePath: 
+s3Secret: *******************
+selected_deployment_option: 
+targetFolder: 
+useActiveFTP: 
+useBaseHref: 
+useBasicAuth: 
+useRelativeURLs: 
+Installed extensions:
+Core
+bcmath
+calendar
+ctype
+date
+filter
+hash
+iconv
+json
+SPL
+pcre
+readline
+Reflection
+session
+standard
+mysqlnd
+tokenizer
+zip
+zlib
+libxml
+dom
+PDO
+bz2
+SimpleXML
+xml
+wddx
+xmlreader
+xmlwriter
+apache2handler
+openssl
+curl
+fileinfo
+gd
+gettext
+mbstring
+exif
+mysqli
+pdo_mysql
+pdo_sqlite
+Phar
+ftp
+Exclusion rules wp-json
+Crawling /
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+Adding discovered URL: /wp-content/themes/zakra/style.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-668.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/global.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-627.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
+Adding discovered URL: /
+Adding discovered URL: /wp-content/uploads/2020/07/about-image.png
+Adding discovered URL: /wp-content/uploads/2020/07/about-image-300x272.png
+Adding discovered URL: /wp-content/uploads/2020/07/target-line.png
+Adding discovered URL: /wp-content/uploads/2020/07/design.png
+Adding discovered URL: /wp-content/uploads/2020/07/social-marketing.png
+Adding discovered URL: /wp-content/uploads/2021/02/download111.png
+Adding discovered URL: /wp-content/uploads/2021/02/download12.png
+Adding discovered URL: /wp-content/themes/zakra/assets/js/navigation.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/skip-link-focus-fix.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/zakra-custom.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+Adding discovered URL: /wp-includes/js/jquery/ui/core.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js
+SAVING / to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /?elementor_library=default-kit
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+Adding discovered URL: /wp-content/themes/zakra/style.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-668.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/global.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-627.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
+Adding discovered URL: /
+Adding discovered URL: /wp-content/uploads/2020/07/about-image.png
+Adding discovered URL: /wp-content/uploads/2020/07/about-image-300x272.png
+Adding discovered URL: /wp-content/uploads/2020/07/target-line.png
+Adding discovered URL: /wp-content/uploads/2020/07/design.png
+Adding discovered URL: /wp-content/uploads/2020/07/social-marketing.png
+Adding discovered URL: /wp-content/uploads/2021/02/download111.png
+Adding discovered URL: /wp-content/uploads/2021/02/download12.png
+Adding discovered URL: /wp-content/themes/zakra/assets/js/navigation.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/skip-link-focus-fix.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/zakra-custom.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+Adding discovered URL: /wp-includes/js/jquery/ui/core.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js
+SAVING /?elementor_library=default-kit to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /?elementor_library=default-kit-2
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+Adding discovered URL: /wp-content/themes/zakra/style.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-668.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/global.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-627.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
+Adding discovered URL: /
+Adding discovered URL: /wp-content/uploads/2020/07/about-image.png
+Adding discovered URL: /wp-content/uploads/2020/07/about-image-300x272.png
+Adding discovered URL: /wp-content/uploads/2020/07/target-line.png
+Adding discovered URL: /wp-content/uploads/2020/07/design.png
+Adding discovered URL: /wp-content/uploads/2020/07/social-marketing.png
+Adding discovered URL: /wp-content/uploads/2021/02/download111.png
+Adding discovered URL: /wp-content/uploads/2021/02/download12.png
+Adding discovered URL: /wp-content/themes/zakra/assets/js/navigation.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/skip-link-focus-fix.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/zakra-custom.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+Adding discovered URL: /wp-includes/js/jquery/ui/core.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js
+SAVING /?elementor_library=default-kit-2 to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /?elementor_library=zakra-one-page-about-section
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+Adding discovered URL: /wp-content/themes/zakra/style.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-668.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/global.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-627.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
+Adding discovered URL: /
+Adding discovered URL: /wp-content/uploads/2020/07/about-image.png
+Adding discovered URL: /wp-content/uploads/2020/07/about-image-300x272.png
+Adding discovered URL: /wp-content/uploads/2020/07/target-line.png
+Adding discovered URL: /wp-content/uploads/2020/07/design.png
+Adding discovered URL: /wp-content/uploads/2020/07/social-marketing.png
+Adding discovered URL: /wp-content/uploads/2021/02/download111.png
+Adding discovered URL: /wp-content/uploads/2021/02/download12.png
+Adding discovered URL: /wp-content/themes/zakra/assets/js/navigation.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/skip-link-focus-fix.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/zakra-custom.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+Adding discovered URL: /wp-includes/js/jquery/ui/core.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js
+SAVING /?elementor_library=zakra-one-page-about-section to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /?elementor_library=zakra-one-page-banner-2-section
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+Adding discovered URL: /wp-content/themes/zakra/style.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-668.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/global.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-627.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
+Adding discovered URL: /
+Adding discovered URL: /wp-content/uploads/2020/07/about-image.png
+Adding discovered URL: /wp-content/uploads/2020/07/about-image-300x272.png
+Adding discovered URL: /wp-content/uploads/2020/07/target-line.png
+Adding discovered URL: /wp-content/uploads/2020/07/design.png
+Adding discovered URL: /wp-content/uploads/2020/07/social-marketing.png
+Adding discovered URL: /wp-content/uploads/2021/02/download111.png
+Adding discovered URL: /wp-content/uploads/2021/02/download12.png
+Adding discovered URL: /wp-content/themes/zakra/assets/js/navigation.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/skip-link-focus-fix.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/zakra-custom.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+Adding discovered URL: /wp-includes/js/jquery/ui/core.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js
+SAVING /?elementor_library=zakra-one-page-banner-2-section to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /?elementor_library=zakra-one-page-banner-section
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+Adding discovered URL: /wp-content/themes/zakra/style.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-668.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/global.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-627.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
+Adding discovered URL: /
+Adding discovered URL: /wp-content/uploads/2020/07/about-image.png
+Adding discovered URL: /wp-content/uploads/2020/07/about-image-300x272.png
+Adding discovered URL: /wp-content/uploads/2020/07/target-line.png
+Adding discovered URL: /wp-content/uploads/2020/07/design.png
+Adding discovered URL: /wp-content/uploads/2020/07/social-marketing.png
+Adding discovered URL: /wp-content/uploads/2021/02/download111.png
+Adding discovered URL: /wp-content/uploads/2021/02/download12.png
+Adding discovered URL: /wp-content/themes/zakra/assets/js/navigation.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/skip-link-focus-fix.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/zakra-custom.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+Adding discovered URL: /wp-includes/js/jquery/ui/core.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js
+SAVING /?elementor_library=zakra-one-page-banner-section to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /?elementor_library=zakra-one-page-contact-section
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+Adding discovered URL: /wp-content/themes/zakra/style.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-668.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/global.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-627.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
+Adding discovered URL: /
+Adding discovered URL: /wp-content/uploads/2020/07/about-image.png
+Adding discovered URL: /wp-content/uploads/2020/07/about-image-300x272.png
+Adding discovered URL: /wp-content/uploads/2020/07/target-line.png
+Adding discovered URL: /wp-content/uploads/2020/07/design.png
+Adding discovered URL: /wp-content/uploads/2020/07/social-marketing.png
+Adding discovered URL: /wp-content/uploads/2021/02/download111.png
+Adding discovered URL: /wp-content/uploads/2021/02/download12.png
+Adding discovered URL: /wp-content/themes/zakra/assets/js/navigation.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/skip-link-focus-fix.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/zakra-custom.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+Adding discovered URL: /wp-includes/js/jquery/ui/core.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js
+SAVING /?elementor_library=zakra-one-page-contact-section to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /?elementor_library=zakra-one-page-front-page
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+Adding discovered URL: /wp-content/themes/zakra/style.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-668.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/global.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-627.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
+Adding discovered URL: /
+Adding discovered URL: /wp-content/uploads/2020/07/about-image.png
+Adding discovered URL: /wp-content/uploads/2020/07/about-image-300x272.png
+Adding discovered URL: /wp-content/uploads/2020/07/target-line.png
+Adding discovered URL: /wp-content/uploads/2020/07/design.png
+Adding discovered URL: /wp-content/uploads/2020/07/social-marketing.png
+Adding discovered URL: /wp-content/uploads/2021/02/download111.png
+Adding discovered URL: /wp-content/uploads/2021/02/download12.png
+Adding discovered URL: /wp-content/themes/zakra/assets/js/navigation.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/skip-link-focus-fix.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/zakra-custom.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+Adding discovered URL: /wp-includes/js/jquery/ui/core.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js
+SAVING /?elementor_library=zakra-one-page-front-page to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /?elementor_library=zakra-one-page-portfolio-section
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+Adding discovered URL: /wp-content/themes/zakra/style.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-668.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/global.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-627.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
+Adding discovered URL: /
+Adding discovered URL: /wp-content/uploads/2020/07/about-image.png
+Adding discovered URL: /wp-content/uploads/2020/07/about-image-300x272.png
+Adding discovered URL: /wp-content/uploads/2020/07/target-line.png
+Adding discovered URL: /wp-content/uploads/2020/07/design.png
+Adding discovered URL: /wp-content/uploads/2020/07/social-marketing.png
+Adding discovered URL: /wp-content/uploads/2021/02/download111.png
+Adding discovered URL: /wp-content/uploads/2021/02/download12.png
+Adding discovered URL: /wp-content/themes/zakra/assets/js/navigation.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/skip-link-focus-fix.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/zakra-custom.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+Adding discovered URL: /wp-includes/js/jquery/ui/core.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js
+SAVING /?elementor_library=zakra-one-page-portfolio-section to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /?elementor_library=zakra-one-page-services-section
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+Adding discovered URL: /wp-content/themes/zakra/style.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-668.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/global.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-627.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
+Adding discovered URL: /
+Adding discovered URL: /wp-content/uploads/2020/07/about-image.png
+Adding discovered URL: /wp-content/uploads/2020/07/about-image-300x272.png
+Adding discovered URL: /wp-content/uploads/2020/07/target-line.png
+Adding discovered URL: /wp-content/uploads/2020/07/design.png
+Adding discovered URL: /wp-content/uploads/2020/07/social-marketing.png
+Adding discovered URL: /wp-content/uploads/2021/02/download111.png
+Adding discovered URL: /wp-content/uploads/2021/02/download12.png
+Adding discovered URL: /wp-content/themes/zakra/assets/js/navigation.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/skip-link-focus-fix.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/zakra-custom.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+Adding discovered URL: /wp-includes/js/jquery/ui/core.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js
+SAVING /?elementor_library=zakra-one-page-services-section to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /?elementor_library=zakra-one-page-services-section-2
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+Adding discovered URL: /wp-content/themes/zakra/style.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-668.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/global.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-627.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
+Adding discovered URL: /
+Adding discovered URL: /wp-content/uploads/2020/07/about-image.png
+Adding discovered URL: /wp-content/uploads/2020/07/about-image-300x272.png
+Adding discovered URL: /wp-content/uploads/2020/07/target-line.png
+Adding discovered URL: /wp-content/uploads/2020/07/design.png
+Adding discovered URL: /wp-content/uploads/2020/07/social-marketing.png
+Adding discovered URL: /wp-content/uploads/2021/02/download111.png
+Adding discovered URL: /wp-content/uploads/2021/02/download12.png
+Adding discovered URL: /wp-content/themes/zakra/assets/js/navigation.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/skip-link-focus-fix.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/zakra-custom.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+Adding discovered URL: /wp-includes/js/jquery/ui/core.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js
+SAVING /?elementor_library=zakra-one-page-services-section-2 to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /?elementor_library=zakra-one-page-team-section
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+Adding discovered URL: /wp-content/themes/zakra/style.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-668.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/global.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-627.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
+Adding discovered URL: /
+Adding discovered URL: /wp-content/uploads/2020/07/about-image.png
+Adding discovered URL: /wp-content/uploads/2020/07/about-image-300x272.png
+Adding discovered URL: /wp-content/uploads/2020/07/target-line.png
+Adding discovered URL: /wp-content/uploads/2020/07/design.png
+Adding discovered URL: /wp-content/uploads/2020/07/social-marketing.png
+Adding discovered URL: /wp-content/uploads/2021/02/download111.png
+Adding discovered URL: /wp-content/uploads/2021/02/download12.png
+Adding discovered URL: /wp-content/themes/zakra/assets/js/navigation.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/skip-link-focus-fix.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/zakra-custom.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+Adding discovered URL: /wp-includes/js/jquery/ui/core.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js
+SAVING /?elementor_library=zakra-one-page-team-section to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /?elementor_library=zakra-one-page-testimonials-section
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+Adding discovered URL: /wp-content/themes/zakra/style.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/animations/animations.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/css/frontend.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-668.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css
+Adding discovered URL: /wp-content/uploads/elementor/css/global.css
+Adding discovered URL: /wp-content/uploads/elementor/css/post-627.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js
+Adding discovered URL: /
+Adding discovered URL: /wp-content/uploads/2020/07/about-image.png
+Adding discovered URL: /wp-content/uploads/2020/07/about-image-300x272.png
+Adding discovered URL: /wp-content/uploads/2020/07/target-line.png
+Adding discovered URL: /wp-content/uploads/2020/07/design.png
+Adding discovered URL: /wp-content/uploads/2020/07/social-marketing.png
+Adding discovered URL: /wp-content/uploads/2021/02/download111.png
+Adding discovered URL: /wp-content/uploads/2021/02/download12.png
+Adding discovered URL: /wp-content/themes/zakra/assets/js/navigation.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/skip-link-focus-fix.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/zakra-custom.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/webpack.runtime.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery.min.js
+Adding discovered URL: /wp-includes/js/jquery/jquery-migrate.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend-modules.min.js
+Adding discovered URL: /wp-includes/js/jquery/ui/core.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/frontend.min.js
+Adding discovered URL: /wp-content/plugins/elementor/assets/js/preloaded-elements-handlers.min.js
+SAVING /?elementor_library=zakra-one-page-testimonials-section to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /favicon.ico
+BAD RESPONSE STATUS (404): /favicon.ico
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /index.php/2017/03/09/hello-world-2/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+Adding discovered URL: /wp-content/themes/zakra/style.css
+Adding discovered URL: /
+Adding discovered URL: /wp-content/themes/zakra/assets/js/navigation.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/skip-link-focus-fix.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/zakra-custom.min.js
+SAVING /index.php/2017/03/09/hello-world-2/ to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/index.php/2017/03/09/hello-world-2/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /index.php/2019/10/17/hello-world-3/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+Adding discovered URL: /wp-content/themes/zakra/style.css
+Adding discovered URL: /
+Adding discovered URL: /wp-content/themes/zakra/assets/js/navigation.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/skip-link-focus-fix.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/zakra-custom.min.js
+SAVING /index.php/2019/10/17/hello-world-3/ to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/index.php/2019/10/17/hello-world-3/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /index.php/2021/02/19/hello-world/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+Adding discovered URL: /wp-content/themes/zakra/style.css
+Adding discovered URL: /
+Adding discovered URL: /wp-content/themes/zakra/assets/js/navigation.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/skip-link-focus-fix.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/zakra-custom.min.js
+SAVING /index.php/2021/02/19/hello-world/ to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/index.php/2021/02/19/hello-world/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /index.php/category/uncategorized/
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+Adding discovered URL: /wp-content/themes/zakra/style.css
+Adding discovered URL: /
+Adding discovered URL: /wp-content/themes/zakra/assets/js/navigation.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/skip-link-focus-fix.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/zakra-custom.min.js
+SAVING /index.php/category/uncategorized/ to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/index.php/category/uncategorized/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /index.php/category/uncategorized/page/1
+Adding discovered URL: /wp-includes/css/dist/block-library/style.min.css
+Adding discovered URL: /wp-includes/css/dist/block-library/theme.min.css
+Adding discovered URL: /wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css
+Adding discovered URL: /wp-content/themes/zakra/style.css
+Adding discovered URL: /
+Adding discovered URL: /wp-content/themes/zakra/assets/js/navigation.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/skip-link-focus-fix.min.js
+Adding discovered URL: /wp-content/themes/zakra/assets/js/zakra-custom.min.js
+SAVING /index.php/category/uncategorized/page/1 to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/index.php/category/uncategorized/page/1/index.html
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /page/1
+BAD RESPONSE STATUS (404): /page/1
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /pages/page/1
+BAD RESPONSE STATUS (404): /pages/page/1
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /portfolio/
+BAD RESPONSE STATUS (404): /portfolio/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /portfolio/index.php/
+BAD RESPONSE STATUS (404): /portfolio/index.php/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /portfolio/index.php/2017/
+BAD RESPONSE STATUS (404): /portfolio/index.php/2017/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /portfolio/index.php/2017/03/
+BAD RESPONSE STATUS (404): /portfolio/index.php/2017/03/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /portfolio/index.php/2017/03/09/
+BAD RESPONSE STATUS (404): /portfolio/index.php/2017/03/09/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /portfolio/index.php/2017/03/09/hello-world-2/
+BAD RESPONSE STATUS (404): /portfolio/index.php/2017/03/09/hello-world-2/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /portfolio/index.php/2019/
+BAD RESPONSE STATUS (404): /portfolio/index.php/2019/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /portfolio/index.php/2019/10/
+BAD RESPONSE STATUS (404): /portfolio/index.php/2019/10/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /portfolio/index.php/2019/10/17/
+BAD RESPONSE STATUS (404): /portfolio/index.php/2019/10/17/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /portfolio/index.php/2019/10/17/hello-world-3/
+BAD RESPONSE STATUS (404): /portfolio/index.php/2019/10/17/hello-world-3/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /portfolio/index.php/2021/
+BAD RESPONSE STATUS (404): /portfolio/index.php/2021/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /portfolio/index.php/2021/02/
+BAD RESPONSE STATUS (404): /portfolio/index.php/2021/02/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /portfolio/index.php/2021/02/19/
+BAD RESPONSE STATUS (404): /portfolio/index.php/2021/02/19/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /portfolio/index.php/2021/02/19/hello-world/
+BAD RESPONSE STATUS (404): /portfolio/index.php/2021/02/19/hello-world/
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /robots.txt
+BAD RESPONSE STATUS (404): /robots.txt
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /sitemap.xml
+BAD RESPONSE STATUS (404): /sitemap.xml
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\all.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\all.css to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\css/all.css
+Memory allocated by crawl script: 8192
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\all.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\all.min.css to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\css/all.min.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\brands.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\brands.css to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\css/brands.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\brands.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\brands.min.css to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\css/brands.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\font-awesome.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\font-awesome.css to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\css/font-awesome.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\font-awesome.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\font-awesome.min.css to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\css/font-awesome.min.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\fontawesome.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\fontawesome.css to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\css/fontawesome.css
+Memory allocated by crawl script: 6144
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\fontawesome.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\fontawesome.min.css to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\css/fontawesome.min.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\regular.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\regular.css to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\css/regular.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\regular.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\regular.min.css to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\css/regular.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\solid.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\solid.css to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\css/solid.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\solid.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\solid.min.css to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\css/solid.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\svg-with-js.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\svg-with-js.css to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\css/svg-with-js.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\svg-with-js.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\svg-with-js.min.css to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\css/svg-with-js.min.css
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\v4-shims.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\v4-shims.css to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\css/v4-shims.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\css\v4-shims.min.css
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\css\v4-shims.min.css to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\css/v4-shims.min.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\FontAwesome.otf
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\FontAwesome.otf to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\fonts/FontAwesome.otf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\fontawesome-webfont.eot
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\fontawesome-webfont.eot to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\fonts/fontawesome-webfont.eot
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\fontawesome-webfont.svg
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\fontawesome-webfont.svg to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\fonts/fontawesome-webfont.svg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\fontawesome-webfont.ttf
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\fontawesome-webfont.ttf to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\fonts/fontawesome-webfont.ttf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\fontawesome-webfont.woff
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\fontawesome-webfont.woff to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\fonts/fontawesome-webfont.woff
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\fontawesome-webfont.woff2
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\fonts\fontawesome-webfont.woff2 to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\fonts/fontawesome-webfont.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\js\brands.js
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\js\brands.js to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\js/brands.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\js\regular.js
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\js\regular.js to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\js/regular.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\js\solid.js
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\js\solid.js to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\js/solid.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\js\v4-shims.js
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\js\v4-shims.js to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\js/v4-shims.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\js\v4-shims.min.js
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\js\v4-shims.min.js to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\js/v4-shims.min.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\migration\mapping.js
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\migration\mapping.js to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\migration/mapping.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-brands-400.eot
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-brands-400.eot to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-brands-400.eot
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-brands-400.svg
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-brands-400.svg to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-brands-400.svg
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-brands-400.ttf
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-brands-400.ttf to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-brands-400.ttf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-brands-400.woff
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-brands-400.woff to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-brands-400.woff
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-brands-400.woff2
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-brands-400.woff2 to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-brands-400.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-regular-400.eot
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-regular-400.eot to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-regular-400.eot
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-regular-400.svg
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-regular-400.svg to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-regular-400.svg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-regular-400.ttf
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-regular-400.ttf to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-regular-400.ttf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-regular-400.woff
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-regular-400.woff to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-regular-400.woff
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-regular-400.woff2
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-regular-400.woff2 to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-regular-400.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-solid-900.eot
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-solid-900.eot to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-solid-900.eot
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-solid-900.svg
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-solid-900.svg to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-solid-900.svg
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-solid-900.ttf
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-solid-900.ttf to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-solid-900.ttf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-solid-900.woff
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-solid-900.woff to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-solid-900.woff
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-solid-900.woff2
+SAVING /wp-content/plugins/elementor/assets/lib/font-awesome\webfonts\fa-solid-900.woff2 to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/plugins/elementor/assets/lib/font-awesome\webfonts/fa-solid-900.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\css\woocommerce.css
+SAVING /wp-content/themes/zakra\assets\css\woocommerce.css to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\css/woocommerce.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\css\woocommerce.min.css
+SAVING /wp-content/themes/zakra\assets\css\woocommerce.min.css to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\css/woocommerce.min.css
+Memory allocated by crawl script: 4096
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\fonts\themegrill-icons.eot
+SAVING /wp-content/themes/zakra\assets\fonts\themegrill-icons.eot to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\fonts/themegrill-icons.eot
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\fonts\themegrill-icons.svg
+SAVING /wp-content/themes/zakra\assets\fonts\themegrill-icons.svg to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\fonts/themegrill-icons.svg
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\fonts\themegrill-icons.ttf
+SAVING /wp-content/themes/zakra\assets\fonts\themegrill-icons.ttf to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\fonts/themegrill-icons.ttf
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\fonts\themegrill-icons.woff
+SAVING /wp-content/themes/zakra\assets\fonts\themegrill-icons.woff to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\fonts/themegrill-icons.woff
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\fonts\themegrill-icons.woff2
+SAVING /wp-content/themes/zakra\assets\fonts\themegrill-icons.woff2 to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\fonts/themegrill-icons.woff2
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\both-on-left.png
+SAVING /wp-content/themes/zakra\assets\img\icons\both-on-left.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/both-on-left.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\both-on-right.png
+SAVING /wp-content/themes/zakra\assets\img\icons\both-on-right.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/both-on-right.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\both-sidebar.png
+SAVING /wp-content/themes/zakra\assets\img\icons\both-sidebar.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/both-sidebar.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\boxed.png
+SAVING /wp-content/themes/zakra\assets\img\icons\boxed.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/boxed.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\breadcrumb-center.png
+SAVING /wp-content/themes/zakra\assets\img\icons\breadcrumb-center.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/breadcrumb-center.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\breadcrumb-left.png
+SAVING /wp-content/themes/zakra\assets\img\icons\breadcrumb-left.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/breadcrumb-left.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\breadcrumb-right.png
+SAVING /wp-content/themes/zakra\assets\img\icons\breadcrumb-right.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/breadcrumb-right.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\customizer.png
+SAVING /wp-content/themes/zakra\assets\img\icons\customizer.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/customizer.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\footer-center.png
+SAVING /wp-content/themes/zakra\assets\img\icons\footer-center.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/footer-center.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\footer-left.png
+SAVING /wp-content/themes/zakra\assets\img\icons\footer-left.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/footer-left.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\four-columns.png
+SAVING /wp-content/themes/zakra\assets\img\icons\four-columns.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/four-columns.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\full-width.png
+SAVING /wp-content/themes/zakra\assets\img\icons\full-width.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/full-width.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\header-center.png
+SAVING /wp-content/themes/zakra\assets\img\icons\header-center.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/header-center.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\header-left.png
+SAVING /wp-content/themes/zakra\assets\img\icons\header-left.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/header-left.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\header-right.png
+SAVING /wp-content/themes/zakra\assets\img\icons\header-right.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/header-right.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\layout-default.png
+SAVING /wp-content/themes/zakra\assets\img\icons\layout-default.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/layout-default.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\left-sidebar.png
+SAVING /wp-content/themes/zakra\assets\img\icons\left-sidebar.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/left-sidebar.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\meta-style-one.png
+SAVING /wp-content/themes/zakra\assets\img\icons\meta-style-one.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/meta-style-one.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\meta-style-two.png
+SAVING /wp-content/themes/zakra\assets\img\icons\meta-style-two.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/meta-style-two.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\one-column.png
+SAVING /wp-content/themes/zakra\assets\img\icons\one-column.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/one-column.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\read-more-left.png
+SAVING /wp-content/themes/zakra\assets\img\icons\read-more-left.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/read-more-left.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\read-more-right.png
+SAVING /wp-content/themes/zakra\assets\img\icons\read-more-right.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/read-more-right.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\right-sidebar.png
+SAVING /wp-content/themes/zakra\assets\img\icons\right-sidebar.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/right-sidebar.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\separate.png
+SAVING /wp-content/themes/zakra\assets\img\icons\separate.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/separate.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\stretched.png
+SAVING /wp-content/themes/zakra\assets\img\icons\stretched.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/stretched.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\three-columns.png
+SAVING /wp-content/themes/zakra\assets\img\icons\three-columns.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/three-columns.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\two-columns.png
+SAVING /wp-content/themes/zakra\assets\img\icons\two-columns.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/two-columns.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\img\icons\wide.png
+SAVING /wp-content/themes/zakra\assets\img\icons\wide.png to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\img\icons/wide.png
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\js\navigation.js
+SAVING /wp-content/themes/zakra\assets\js\navigation.js to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\js/navigation.js
+Memory allocated by crawl script: 2048
+Exclusion rules wp-json
+Crawling /wp-content/themes/zakra\assets\js\navigation.min.js
+SAVING /wp-content/themes/zakra\assets\js\navigation.min.js to E:/xampp/htdocs/portfolio/wp-content/uploads/wp-static-html-output-1613767689/wp-content/themes/zakra\assets\js/navigation.min.js
+Memory allocated by crawl script: 2048
